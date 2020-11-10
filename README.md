@@ -6,7 +6,7 @@
 
 ``` bash
 # Install dependencies
-pipenv install
+pip install env
 
 cd pollster
 
